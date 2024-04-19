@@ -1,8 +1,8 @@
-- 👋 Hi, I’m Justin Vaughn
+- 👋 Hi, I’m Justin Vaughn and I'm a current Computer Science major at UIC
 - 👀 I’m interested in data analytics and object-oriented programming
 - 🌱 I’m currently learning javascript
 - 📫 You can reach me via email: jvaughn0413@gmail.com
-- 🤩 Fun fact : C++ is my favorite programming langauge
+- 🤩 Fun fact : C++ is my favorite programming langauge !
 
 <!---
 JLV4/JLV4 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
